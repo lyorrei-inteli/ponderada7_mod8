@@ -31,7 +31,11 @@ Para treinar o modelo e testar uma imagem aleátoria do dataset MNIST, abra o ar
 
 ## Demonstração do Projeto
 
-Um vídeo demonstrativo do projeto pode ser encontrado [aqui](URL do vídeo).
+Um vídeo demonstrativo do projeto pode ser encontrado [aqui](https://youtu.be/g6iFRGz9sGY).
+
+
+https://github.com/lyorrei-inteli/ponderada7_mod8/assets/99191948/b1bd7670-bd5c-4024-a9cb-8629ed91f3ed
+
 
 ## Estrutura do Projeto
 
