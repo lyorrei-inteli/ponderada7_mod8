@@ -2,6 +2,10 @@
 
 Este repositório contém um projeto que treina uma Rede Neural Convolucional (CNN) para classificar dígitos manuscritos do dataset MNIST. O modelo é capaz de alcançar uma acurácia superior a 95% no conjunto de treinamento com apenas 3 épocas.
 
+## Explicação do código
+Para entender cada linha de código, acesse o notebook `main.ipynb`. Nele, cada linha de código é comentada utilizando células de texto.
+![Clique aqui para acessar o código](https://github.com/lyorrei-inteli/ponderada7_mod8/blob/main/main.ipynb)
+
 ## Como Instalar e Executar
 
 ### Pré-requisitos
