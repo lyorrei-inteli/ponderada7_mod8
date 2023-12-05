@@ -6,7 +6,7 @@ Este repositório contém um projeto que treina uma Rede Neural Convolucional (C
 
 ### Pré-requisitos
 
-Antes de começar, certifique-se de ter o Python instalado em sua máquina. Este projeto foi testado com Python 3.8.
+Antes de começar, certifique-se de ter o Python instalado em sua máquina.
 
 ### Instalação
 
